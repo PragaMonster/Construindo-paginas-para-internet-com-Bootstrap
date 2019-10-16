@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: rgba(8, 53, 95, 0.712);
+}
+
+.quem-somos {
+    background-color: rgb(151, 78, 219);
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.parceiros {
+    color: #563d7c;
+}
+
+.servicos {
+    background-color: #563d7c;
+}
+
+footer {
+    background-color: rgb(6, 46, 83);
+    width: "100%";
+    padding-top: 5px;
+    padding: 10px;
+}
